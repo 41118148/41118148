@@ -1,0 +1,13 @@
+body {
+  background-color: #ffd700; /* 粉黃色 */
+}
+
+h1 {
+  color: red;
+  font-size: 36px;
+}
+
+p {
+  color: #a52a2a; /* 棕色 */
+  font-size: 18px;
+}
